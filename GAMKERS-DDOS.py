@@ -21,9 +21,9 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet GMKR-Ddos")
 print
-print "Coded By : GAMKERS"
-print "Author   : GAMKERS"
-print "Github   : github.com/gamkers"
+print "Coded By : sibi"
+print "Author   : sibi"
+print "Github   : github.com/sibi"
 print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We aren't responsible for your actions"
 print
 ip = raw_input("IP Target : ")
